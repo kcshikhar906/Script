@@ -1,2 +1,2 @@
 ﻿FirstName;Initials;Lastname;Username;Email;StreetAddress;City;ZipCode;State;Country;Department;Password;Telephone;JobTitle;Company;OU
-Max;MF;Fraser;Max.Fraser;Max.Fraser@exoip.com;21 Baker St;London;NW1 6XE;;GB;IT;Password@123;+44123456780;Engineer;EXOIP; OU=TestOU,DC=skc,DC=local
+Max;MF;Fraser;Max.Fraser;Max.Fraser@exoip.com;21 Baker St;London;NW1 6XE;;GB;IT;Password@123;+44123456780;Engineer;EXOIP; YOUR ATTRIBUTE PATH HERE

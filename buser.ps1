@@ -3,10 +3,10 @@
 Import-Module ActiveDirectory
 
 # Store the data from NewUsersFinal.csv in the $ADUsers variable
-$ADUsers = Import-Csv "C:\Users\Administrator\Desktop\buser.csv" -Delimiter ";"
+$ADUsers = Import-Csv "COPY YOUR .CSV FILE PATH HERE" -Delimiter ";"
 
 # Define UPN
-$UPN = "skc.local"
+$UPN = "You Domain Name"
 
 # Loop through each row containing user details in the CSV file
 foreach ($User in $ADUsers) {
