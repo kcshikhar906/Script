@@ -6,7 +6,7 @@ Import-Module ActiveDirectory
 $ADUsers = Import-Csv "COPY YOUR .CSV FILE PATH HERE" -Delimiter ";"
 
 # Define UPN
-$UPN = "You Domain Name"
+$UPN = "YOUR DOMAIN NAME"
 
 # Loop through each row containing user details in the CSV file
 foreach ($User in $ADUsers) {
